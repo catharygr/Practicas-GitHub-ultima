@@ -10,7 +10,7 @@ body {
 }
 .container {
     background: azure;
-    padding: 2em;
+    padding: 2em 4em;
     border: 2px solid black;
     border-radius: 5px;
     box-shadow: 0 0 10px 5px;
