@@ -1,3 +1,13 @@
 body {
     background: violet;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1em;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.container {
+    
 }
