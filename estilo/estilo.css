@@ -9,5 +9,19 @@ body {
     height: 100vh;
 }
 .container {
-    
+    background: azure;
+    padding: 2em;
+    border: 2px solid black;
+    border-radius: 5px;
+    box-shadow: 0 0 10px 5px;
+
+}
+.container h1 {
+    font-size: 3em;
+}
+.container p {
+    font-size: 1.5em;
+}
+.color-dorado {
+    color: gold
 }
