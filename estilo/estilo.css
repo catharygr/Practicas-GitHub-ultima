@@ -1,3 +1,7 @@
+* {
+    box-sizing: border-box;
+}
+
 body {
     background: violet;
     font-family: 'Times New Roman', Times, serif;
@@ -34,4 +38,12 @@ p::first-letter {
     text-decoration-line: underline;
     text-decoration-style: wavy;
     text-decoration-color: brown;
+}
+
+h3 {
+    width: 100%;
+    background-color: beige;
+    text-align: center;
+    padding: 1em;
+    margin: 0;
 }
