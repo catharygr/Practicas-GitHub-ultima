@@ -35,3 +35,7 @@ p::first-letter {
     text-decoration-style: wavy;
     text-decoration-color: brown;
 }
+.mi-cara {
+    height: 1.9em;
+    margin-left: 0;
+}
