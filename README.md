@@ -1,4 +1,4 @@
-# Un proyecto hecho mientras aprendiamos a utilizar Git y GitHub
+# Un proyecto hecho mientras aprendíamos a utilizar Git y GitHub
 Un curso increible que estoy estudiando en la plataforma Platzi
 
 En este curso he aprendido:
