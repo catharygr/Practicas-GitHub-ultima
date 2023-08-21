@@ -7,4 +7,4 @@ En este curso he aprendido:
 * Resolucion de conflictos al hacer merge 
 * Conexión con el GitHub y haciendo Pull request 
 
-> Es mi primer repositorio en esta gran aventura para cambiar de profesión y poder entrar el el maravilloso mundo de la tecnólogia.
+Es mi primer repositorio en esta gran aventura para cambiar de profesión y poder entrar el el maravilloso mundo de la tecnólogia.
